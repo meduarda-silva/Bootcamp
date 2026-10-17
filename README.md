@@ -19,24 +19,6 @@ IA & Prompt Engineering: OpenAI API, ChatGPT, Claude, LangChain
 
 Ferramentas de Desenvolvimento: Git, GitHub, VS Code, Google Colab / Jupyter Notebooks
 
-🎯 Projetos & Entregas da Disciplina
-📌 Módulo 01 - Fundamentos
-Resolução dos primeiros exercícios e introdução às ferramentas do bootcamp.
-
-📌 Módulo 02 - Engenharia de Prompt e IA
-Aplicação de técnicas avançadas de prompt e criação de fluxos com IA.
-
-📌 Projeto Final da Disciplina
-Projeto integrador aplicando todos os conceitos trabalhados durante a disciplina.
-
-📈 Checklist de Progresso do Bootcamp
-[x] Módulo 1: Configuração do Ambiente & Conceitos Iniciais
-
-[x] Módulo 2: Técnicas de Prompting e Exercícios Práticos
-
-[ ] Módulo 3: Construção do Projeto Principal
-
-[ ] Módulo 4: Apresentação e Entrega Final
 
 👩‍💻 Desenvolvedora
 Desenvolvido por Maria Eduarda Santos
