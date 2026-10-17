@@ -1,5 +1,3 @@
-:
-
 📚 Repositório da Disciplina — Bootcamp 🎓
 Bem-vindo(a) ao meu repositório dedicado à disciplina do Bootcamp de [Nome do Bootcamp / Área, ex: Inteligência Artificial & Engenharia de Prompts]! 👋
 
